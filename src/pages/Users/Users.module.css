@@ -1,0 +1,18 @@
+.modalItem{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.bot{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn{
+    padding: 8px 20px;
+    background-color: #7d9c9f;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: white;
+}

@@ -1,0 +1,16 @@
+.user{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.btn{
+    padding: 9px 30px;
+    cursor: pointer;
+    background-color: #7d9c9f;
+    border: none;
+    border-radius: 3px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: white;
+}
